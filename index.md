@@ -5,7 +5,7 @@
 ## Project 1: Integrated surface photometry of stars
 
 In this project bla bla bla. See more details on [this
-page](project_galaxy_surface_photometry.md)
+page](project_galaxy_surface_photometry.html)
 
 
 
