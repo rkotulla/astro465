@@ -8,4 +8,4 @@ more stuff to go here
 
 
 
-[back](./)
+[back](/)
